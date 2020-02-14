@@ -5,9 +5,4 @@ resources:
       gitProvider: github
       path: sophietait/jfrog-pipelines-hello-world
   
-  - name: buildInfo
-    type: BuildInfo
-    configuration:
-      sourceArtifactory:    artifactory
-      buildName:            artifactory
-      buildNumber:          2
+
