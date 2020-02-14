@@ -3,6 +3,5 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: github
-      path: sophietait/jfrog-pipelines-hello-world
-  
+      path: sophietait/jfrog-technical-review
 
